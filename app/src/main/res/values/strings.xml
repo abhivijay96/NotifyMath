@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NotifyMath</string>
+    <string name="large_text">
+        Draw the notification bar, the first notification will have the result and the notifications below it will have
+        equations which may or may not be equal to the given result, Swipe away the incorrect equations. Every correct equation
+        left will give you 1 point, every wrong one will give -2. Try it and see how much you can score!!!
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
